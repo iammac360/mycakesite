@@ -1,0 +1,7 @@
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function version() in C:\\Users\\iammac\\Desktop\\sites\\cakephp-demo\\app\\config\\core.php on line 307
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP   1. {main}() C:\\Users\\iammac\\Desktop\\sites\\cakephp-demo\\app\\webroot\\index.php:0
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP   2. include() C:\\Users\\iammac\\Desktop\\sites\\cakephp-demo\\app\\webroot\\index.php:76
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP   3. Configure::getInstance() C:\\Users\\iammac\\Desktop\\sites\\cakephp-demo\\cake\\bootstrap.php:38
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP   4. Configure->__loadBootstrap() C:\\Users\\iammac\\Desktop\\sites\\cakephp-demo\\cake\\libs\\configure.php:52
+[Mon May 16 00:44:46 2011] [error] [client 127.0.0.1] PHP   5. include() C:\\Users\\iammac\\Desktop\\sites\\cakephp-demo\\cake\\libs\\configure.php:392
